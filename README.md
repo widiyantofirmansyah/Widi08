@@ -1,0 +1,2 @@
+# Widi08
+stockbarang
